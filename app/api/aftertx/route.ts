@@ -25,7 +25,7 @@ async function getResponse(req: NextRequest): Promise<NextResponse> {
         },
       ],
       image: {
-        src: `${NEXT_PUBLIC_URL}/button.webp`,
+        src: `${NEXT_PUBLIC_URL}/image-8.png`,
         aspectRatio: '1:1',
       },
       input: {
