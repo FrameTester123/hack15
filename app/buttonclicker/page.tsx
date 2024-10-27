@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Click the Button',
     description: "Don't click the button!",
-    images: [`${NEXT_PUBLIC_URL}/image-9.png`],
+    images: [`${NEXT_PUBLIC_URL}/image-7.png`],
   },
   other: {
     ...frameMetadata,
